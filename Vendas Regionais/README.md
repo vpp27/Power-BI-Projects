@@ -45,7 +45,7 @@ O objetivo foi criar um painel visual interativo que permitisse a análise do de
 
 ## Visual do Dashboard
 
-![Dashboard de Vendas](./Dashboard)
+![Dashboard de Vendas](./Dashboard_Vendas_Regionais.png)
 
 ## Arquivos
 
