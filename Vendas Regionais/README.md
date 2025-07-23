@@ -49,7 +49,7 @@ O objetivo foi criar um painel visual interativo que permitisse a análise do de
 
 ## Arquivos
 
-- `Desafio_PowerBI_Realista.pbix`: relatório Power BI final
+- `Avaliação_de_Vendas.pbix`: relatório Power BI final
 - `Desafio_PowerBI_Realista.xlsx`: base de dados fictícia
 
 ## Próximos Passos (Ideias de Evolução)
